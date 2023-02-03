@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4c52842912BcB1988CF1DB38a12cB14F6e832CE7",
+  "SCAN_LINK": "https://fvm.starboard.ventures/contracts/0x4c52842912BcB1988CF1DB38a12cB14F6e832CE7",
+  "NETWORK": {
+    "NAME": "Filecoin - Hyperspace testnet",
+    "SYMBOL": "tFIL",
+    "ID": 3141
+  },
+  "NFT_NAME": "Amphi Pass NFT",
+  "SYMBOL": "API",
+  "MAX_SUPPLY": 1026,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "filecoin",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false
+}
