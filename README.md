@@ -1,26 +1,14 @@
 # Welcome to Amphi Pass NFT 
 
 
-
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
-
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/AliSolanki)
-
-[💬 Telegram](https://t.me/studentsamaj)
-
-[🐦 Twitter](https://twitter.com/thestripesnft)
-
-[ℹ️ Website](https://thestripesnft.com/)
-
-# Amphi Pass NFT minting dapp 🔥
+# Amphi Pass NFT minting 
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
-The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).
+The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. 
 
-The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through).
+The more complex route allows you to add additional functionality if you are comfortable with coding in react.js.
+
 
 ## Installation 🛠️
 
@@ -51,8 +39,8 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
   "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
   "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "NAME": "Hyperspace",
+    "SYMBOL": "TFIL",
     "ID": 137
   },
   "NFT_NAME": "Amphi Pass NFT",
@@ -62,7 +50,7 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
   "DISPLAY_COST": 0.075,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://nftrade.com/collection/amphipass?traitIds=",
   "SHOW_BACKGROUND": true
 }
 ```
@@ -92,7 +80,7 @@ Remember to update the title and description the `public/index.html` file
 
 ```html
 <title>Amphi Pass NFT</title>
-<meta name="description" content="Mint your Stripes NFT" />
+<meta name="description" content="Mint your Amphi Pass NFT" />
 ```
 
 Also remember to update the short_name and name fields in the `public/manifest.json` file
