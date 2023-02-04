@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x4c52842912BcB1988CF1DB38a12cB14F6e832CE7",
-  "SCAN_LINK": "https://fvm.starboard.ventures/contracts/0x4c52842912BcB1988CF1DB38a12cB14F6e832CE7",
+  "CONTRACT_ADDRESS": "0x3f8aC7E5F501C9EadE43d0C8850C9E1734e3E92a",
+  "SCAN_LINK": "https://fvm.starboard.ventures/contracts/0x3f8aC7E5F501C9EadE43d0C8850C9E1734e3E92a",
   "NETWORK": {
     "NAME": "Filecoin - Hyperspace testnet",
     "SYMBOL": "tFIL",
